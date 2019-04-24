@@ -11,10 +11,8 @@ This Project has three parts.
 ### Superimposing a image
 ![Detecting the AR Tag](Results/image6.png)
 
-### Superimposing a image
-![Projection of virtual cube](Results/image4.png)
-![Projection of virtual cube](Results/image18.png)
-<img src="Results/image4.png" width="240" height ="200"> <img src="Results/image18.png" width="240" height ="200">
+### Projecting a virtual cube
+<img src="Results/image4.png" width="480" height ="300"> <img src="Results/image18.png" width="480" height ="300">
 
 
 ## Instruction to run the program
